@@ -15,6 +15,20 @@ const Projects = () => {
       ]
     },
     {
+      title: "QA API + SQL Mini Lab",
+      description: "Proyecto personal enfocado en testing de APIs utilizando Postman. Ejecución y validación de requests GET y POST, implementación de assertions en JavaScript y simulación de persistencia de datos con SQLite.",
+      technologies: ["Postman", "API Testing", "SQLite", "JavaScript"],
+      githubUrl: "https://github.com/pamionj/qa-api-sql-lab",
+      features: [
+        "Ejecución y validación de requests GET y POST",
+        "Validación de códigos de estado y payloads",
+        "Assertions en JavaScript con scripts Post-response",
+        "Simulación de persistencia de datos con SQLite",
+        "Consultas SQL básicas para verificación de integridad",
+        "Documentación completa del flujo QA end-to-end"
+      ]
+    },
+    {
       title: "Primeros Pasos en Ciberseguridad",
       description: "Repositorio con ejercicios prácticos y notas sobre conceptos fundamentales de ciberseguridad. Incluye análisis de vulnerabilidades, herramientas de seguridad y buenas prácticas.",
       technologies: ["Nmap", "Cybersecurity", "Networking", "Linux"],
